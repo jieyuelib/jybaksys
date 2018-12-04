@@ -7,6 +7,9 @@
 
 
 1.修改阿里云OSS信息
+
 2.创建目录jybaksys,并赋与读写权限
+
 3.进入jybaksys目录,复制代码或git到目录中
+
 4.运行php backup.php
